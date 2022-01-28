@@ -30,8 +30,7 @@
 
 	**`sound = default or not1 or not2 and you can add new sound to html/sound`**
 
-
-**Feel Free To Use :)**
+**预览 PreView:**
 
 
 
