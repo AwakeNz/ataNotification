@@ -1,4 +1,12 @@
-                                                     **ataNotification  install Tutorial 安装教程!**
+                                  
+	![ccf407f25c41210e3a5bb7be61d4649ed8ef8721_2_690x388](https://user-images.githubusercontent.com/64354150/151496692-b449d9d8-7e8c-438e-973d-1923ec744464.jpeg)
+			  
+				  
+				  
+				  
+				  
+				  
+				  **ataNotification  install Tutorial 安装教程!**
 **1.从 [GitHub](https://github.com/YishengCheww/ataNotification) 上下载插件 , 将插件放入你的FiveM伺服器里**
 
 **1.(ENG) Download ataNotification from [GitHub](https://github.com/YishengCheww/ataNotification)**
