@@ -16,9 +16,27 @@
 
 **                                                        # How To Trigger 如何触发trigger**
 
-**1.客户端&伺服器 例子:  `exports['ataNotification']:notification('far fa-keyboard text-primary','Long text test',"This is long text test", "Halo How are u Now		", 15000,'not1') `**
+**1.客户端 例子:  `exports['ataNotification']:notification('far fa-keyboard text-primary','Long text test',"This is long text test", "Halo How are u Now		", 15000,'not1') `**
 
-**1.(ENG) Client & Server Trigger tutorial : `exports['ataNotification']:notification('far fa-keyboard text-primary','Long text test',"This is long text test", "Halo How are u Now		", 15000,'not1') `**
+**伺服器端 例子: TriggerClientEvent('ataNotification:show', source, {
+    sound = 'not1',
+    icon = 'fas fa-exclamation-circle text-danger',
+    title = 'title here',
+    message = 'hello world',
+    time = 7000,
+    appname = 'Server'
+}) **
+
+**1.(ENG) Client side tutorial : `exports['ataNotification']:notification('far fa-keyboard text-primary','Long text test',"This is long text test", "Halo How are u Now		", 15000,'not1') `**
+
+**(ENG) Server side Tutorial: TriggerClientEvent('ataNotification:show', source, {
+    sound = 'not1',
+    icon = 'fas fa-exclamation-circle text-danger',
+    title = 'title here',
+    message = 'hello world',
+    time = 7000,
+    appname = 'Server'
+}) **
 
 **2.添加新notify 方法: 	`exports['Atanotify']:Notification('ICON COLOR',appname,title, message , time ,sound)`**
 
