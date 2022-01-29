@@ -1,5 +1,7 @@
 				  
 				  **ataNotification  install Tutorial 安装教程!**
+**This Script Are Standalone 此插件是独立的 所有框架都可用.**
+
 **1.从 [GitHub](https://github.com/YishengCheww/ataNotification) 上下载插件 , 将插件放入你的FiveM伺服器里**
 
 **1.(ENG) Download ataNotification from [GitHub](https://github.com/YishengCheww/ataNotification)**
